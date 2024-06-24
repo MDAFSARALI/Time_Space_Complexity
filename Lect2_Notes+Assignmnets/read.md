@@ -3,7 +3,7 @@ In the assignments solutions there are soe problems so please refer to this solu
 Problem:01
 for(int i = 0; i < n; i++) {
  for(int j = 0; j * j < n; j++) {
- cout << “PhysicsWallah ”;
+cout << “PhysicsWallah ”;
  }
 }
 
